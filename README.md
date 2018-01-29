@@ -1,4 +1,4 @@
 # hello-world
 Hello!
 
-Brief Introduction goes here.
+Brief introduction goes here.
